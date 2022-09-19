@@ -1,0 +1,13 @@
+{
+    "name": "Gamma",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-04-28 17:26:02",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

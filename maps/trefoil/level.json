@@ -1,0 +1,13 @@
+{
+    "name": "trefoil",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "arizona",
+    "author": {
+        "name": "montetank"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-05-29 15:49:30",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows"
+}
