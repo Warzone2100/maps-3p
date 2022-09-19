@@ -1,0 +1,13 @@
+{
+    "name": "RatIsland",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "rockies",
+    "author": {
+        "name": "montetank"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2015-01-19 18:41:54",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows"
+}

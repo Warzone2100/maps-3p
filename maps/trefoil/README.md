@@ -1,0 +1,1 @@
+4 oils at base. 16 oil/terrain. It is very hard to defend the base, because the enemy has 4 possibilities to attack the base. One with hovers. The scavs are only with defense bunkers without units/factories. Against NullBot it makes more fun to play without the scav-bunkers

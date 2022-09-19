@@ -1,0 +1,1 @@
+Map of three players from scavengers.

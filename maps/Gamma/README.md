@@ -1,0 +1,1 @@
+A 3-player FFA map with narrow chokes on your way straight to the enemy and wide battlefield in the middle.
