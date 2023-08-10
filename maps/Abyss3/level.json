@@ -1,0 +1,13 @@
+{
+    "name": "Abyss3",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-03-10 17:35:13",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

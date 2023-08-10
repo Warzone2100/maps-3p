@@ -1,0 +1,13 @@
+{
+    "name": "Monocot_Beta1",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-11-19 12:01:10",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

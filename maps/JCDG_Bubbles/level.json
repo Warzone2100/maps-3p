@@ -1,0 +1,13 @@
+{
+    "name": "JCDG_Bubbles",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "arizona",
+    "author": {
+        "name": "Meyer Alexandre"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-05-29 20:30:36",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.27 Windows"
+}

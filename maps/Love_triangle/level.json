@@ -1,0 +1,13 @@
+{
+    "name": "Love_triangle",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "arizona",
+    "author": {
+        "name": "beholder"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2015-07-01 20:46:13",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

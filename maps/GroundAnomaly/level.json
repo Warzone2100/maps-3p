@@ -1,0 +1,13 @@
+{
+    "name": "GroundAnomaly",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "arizona",
+    "author": {
+        "name": "Ertox"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2011-10-08 16:41:43",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.21 Windows"
+}

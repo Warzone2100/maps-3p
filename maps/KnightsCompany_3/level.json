@@ -1,0 +1,13 @@
+{
+    "name": "KnightsCompany_3",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "arizona",
+    "author": {
+        "name": "r3d3&crab"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-01-14 15:33:13",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Tranquil",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-10-18 15:16:10",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

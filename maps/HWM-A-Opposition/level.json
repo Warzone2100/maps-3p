@@ -1,0 +1,13 @@
+{
+    "name": "HWM-A-Opposition",
+    "type": "skirmish",
+    "players": 3,
+    "tileset": "arizona",
+    "author": {
+        "name": "HorusWM"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-10-20 23:44:28",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
